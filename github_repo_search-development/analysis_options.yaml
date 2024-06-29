@@ -1,0 +1,8 @@
+#https://pub.dev/packages/flutter_lints
+include: package:flutter_lints/flutter.yaml
+
+linter:
+
+  rules:
+    always_put_required_named_parameters_first: true
+    prefer_single_quotes: true

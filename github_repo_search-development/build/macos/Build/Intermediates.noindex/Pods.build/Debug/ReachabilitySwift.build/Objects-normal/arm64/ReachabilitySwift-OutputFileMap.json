@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/ReachabilitySwift-master.dia",
+    "emit-module-dependencies" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/ReachabilitySwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/ReachabilitySwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/ReachabilitySwift-master.swiftdeps"
+  },
+  "/Users/rizvinaqvi/Downloads/github_repo_search-development/macos/Pods/ReachabilitySwift/Sources/Reachability.swift" : {
+    "const-values" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability.swiftconstvalues",
+    "dependencies" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability.d",
+    "diagnostics" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability.o",
+    "llvm-bc" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability.bc",
+    "object" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability.o",
+    "swift-dependencies" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability.swiftdeps",
+    "swiftmodule" : "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/Objects-normal/arm64/Reachability~partial.swiftmodule"
+  }
+}

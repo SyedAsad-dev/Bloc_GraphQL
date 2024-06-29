@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Products/Debug/ReachabilitySwift/Reachability.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Products/Debug/ReachabilitySwift/Reachability.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "Reachability-Swift.h",
+      'external-contents': "/Users/rizvinaqvi/Downloads/github_repo_search-development/build/macos/Build/Intermediates.noindex/Pods.build/Debug/ReachabilitySwift.build/unextended-interface-header.h",
+    }]
+    }]
+}
